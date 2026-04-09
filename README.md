@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="id">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -71,8 +71,8 @@
   </div>  <div class="card">
     <h2>Kontak</h2>
     <p>Email: hangejet92@gmail.com</p>
-    <p>GitHub: <a href="https://github.com/username" target="_blank">github.com/username</a></p>
+    <p>GitHub: <a href="https://github.com/raihan-cbug" target="_blank">github.com/raihan-cbug</a></p>
   </div></div><footer>
   <p>© 2026 JJ | Dibuat untuk GitHub Pages</p>
 </footer></body>
-</html>
+
