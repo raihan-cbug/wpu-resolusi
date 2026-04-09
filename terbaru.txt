@@ -1,0 +1,48 @@
+========================================
+        APA TU WOI
+========================================
+
+Project Name: AMBARAKIT
+------------------------
+Jasa Rakit PC
+
+Description:
+------------------------
+Project ini berisi layanan jasa rakit PC sesuai kebutuhan pelanggan, 
+mulai dari PC gaming, editing, hingga kebutuhan kantor.
+
+Features:
+------------------------
+- Konsultasi spesifikasi PC
+- Perakitan PC sesuai budget
+- Instalasi OS & software
+- Testing dan quality check
+
+Technologies Used:
+------------------------
+- Hardware PC Components
+- Windows OS / Linux
+- Basic Networking
+
+Installation / Usage:
+------------------------
+1. Hubungi penyedia jasa
+2. Tentukan budget dan kebutuhan
+3. Pilih komponen
+4. Proses perakitan
+5. PC siap digunakan
+
+Author:
+------------------------
+Nama: [Raihan]
+Kelas: [XI TKJ 2]
+Sekolah: SMKN 1 Nganjuk
+
+Contact:
+------------------------
+Email: [hangejet92@gmail.com]
+Instagram: [@ambamat]
+
+========================================
+        END OF FILE
+========================================
